@@ -1,5 +1,5 @@
 # my-first-project
 ## This is my first project on GitHub. 
 ### :rocket: *Exploring GitHub*
-### **Exploring GitHub Flow**
-# Test branch release
+### :book: *Learning DevOps*
+### :beginner: *Beginner Level*
